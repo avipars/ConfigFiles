@@ -1,1 +1,4 @@
-Config files for working with VSCODE and C++
+
+
+
+My config files for getting c and cpp to play nicely with vscode 
